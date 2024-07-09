@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Hecious
-- 👀 I’m interested in Software Development
-- 💞️ I’m looking to collaborate on Software Development channels
+- 👋 Hi, I’m Tumisang A.K.A Hecious
+- 👀 I’m a Software Development
 - 📫 How to reach me tumiemaboa@gmail.com
 
 <!---
