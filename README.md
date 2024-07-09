@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tumisang
+- 👋 Hi, I’m @Hecious
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java programming
 - 💞️ I’m looking to collaborate on Software Development channels
 - 📫 How to reach me tumiemaboa@gmail.com
 
